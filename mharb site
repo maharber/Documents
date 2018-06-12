@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<head>
+  <style>
+  h1 {
+    font-family: cursive;
+    font-size: 30;
+    color: black;
+  }
+
+  </style>
+
+</head>
+
+<body>
+  <h1>Miles Harber</h1>
+  <h2>Personal Website</h2>
+</body>
